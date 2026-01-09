@@ -23,7 +23,7 @@ The program has been tested using the following operating systems:
 2.	Extract zip file
 3.	Open MATLAB
 4.	Navigate to the unzipped Time_half_max_Slope-main folder in MATLAB's "Current Folder" window
-5.	Right-click on the Time_half_max_Slope folder-main and select "Add to Path" -> "Selected Folders and Subfolders"
+5.	Right-click on the Time_half_max_Slope-main folder and select "Add to Path" -> "Selected Folders and Subfolders"
 
 ### Instructions for use 
 - Preparing Data
