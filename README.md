@@ -35,8 +35,8 @@ The program has been tested using the following operating systems:
   - Before running, open the script and modify Section 1 with specific parameters:
     - rawdata_dir: Enter the full path to your .csv file.
     - find_half_max:
-      - Set to true to find time to half-maximum (rising signals).
-      - Set to false to find time to half-minimum (falling signals).
+      - Set to true to find time to half-maximum.
+      - Set to false to find time to half-minimum.
     - time_interval: Enter the sampling rate in minutes (e.g., 0.5).
 - Execution
   - 1\. Ensure the parameters are saved.
