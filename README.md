@@ -22,11 +22,11 @@ The program has been tested using the following operating systems:
 1.	Download the Seg_GUI_Ratio analysis software package from [Github](https://github.com/msun02/Time_half_max_Slope)
 2.	Extract zip file
 3.	Open MATLAB
-4.	Navigate to the unzipped Time_half_max_Slope folder in MATLAB's "Current Folder" window
-5.	Right-click on the Time_half_max_Slope folder and select "Add to Path" -> "Selected Folders and Subfolders"
+4.	Navigate to the unzipped Time_half_max_Slope-main folder in MATLAB's "Current Folder" window
+5.	Right-click on the Time_half_max_Slope folder-main and select "Add to Path" -> "Selected Folders and Subfolders"
 
 ### Instructions for use 
-- Launching the app
+- Preparing Data
   - The script requires a .csv file with the following structure:
     - Format: Numeric data only; headers should be removed or handled via the readmatrix offset. 
     - Column 1: Time points.
